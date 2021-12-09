@@ -1,0 +1,7 @@
+C:\Users\lmass\source\repos\TheGlassTitleGame\TheGlassTitleGame\bin\Debug\TheGlassTitleGame.exe.config
+C:\Users\lmass\source\repos\TheGlassTitleGame\TheGlassTitleGame\bin\Debug\TheGlassTitleGame.exe
+C:\Users\lmass\source\repos\TheGlassTitleGame\TheGlassTitleGame\bin\Debug\TheGlassTitleGame.pdb
+C:\Users\lmass\source\repos\TheGlassTitleGame\TheGlassTitleGame\obj\Debug\TheGlassTitleGame.csproj.AssemblyReference.cache
+C:\Users\lmass\source\repos\TheGlassTitleGame\TheGlassTitleGame\obj\Debug\TheGlassTitleGame.csproj.CoreCompileInputs.cache
+C:\Users\lmass\source\repos\TheGlassTitleGame\TheGlassTitleGame\obj\Debug\TheGlassTitleGame.exe
+C:\Users\lmass\source\repos\TheGlassTitleGame\TheGlassTitleGame\obj\Debug\TheGlassTitleGame.pdb
